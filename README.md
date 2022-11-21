@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GeorgeBeasleyJr
-- 👀 I’m interested in computer programming and web design
+- 👀 I’m interested in becoming a Freelance Web Developer.
 - 🌱 I’m currently learning React, C#, and Web Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me beasley.jr.george@gmail.com
+- 💞️ I’m looking forward to colaborating on some of the projects currently available.
+- 📫 I can be reached @ beasley.jr.george@gmail.com
 
 <!---
 GeorgeBeasleyJr/GeorgeBeasleyJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
